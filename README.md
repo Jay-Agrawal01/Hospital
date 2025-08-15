@@ -42,7 +42,7 @@ A comprehensive Hospital Management System built with Java and MySQL, designed t
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/Jay-Agrawal01/Hospital.git
    cd hospital-management-system
    ```
 
